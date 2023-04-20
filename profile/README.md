@@ -2,4 +2,6 @@ Hello fellow techy, nerdy folks! We're Terrabyte, a green tech company focused o
 
 Heard of [Pixel Planet Today](https://pixelplanettoday.com), a nature education project that pairs pixel art with facts about the planet? Or [Pinekeepers](https://pinekeepers.com), a game (when, once completed) will allow players to plant trees as they save them in-game? Those are us! We are excited to keep building these and other projects in the environmental tech space!
 
+We're currently building another game, titled Wasted Space! Stay tuned to learn how to get your hands on the Pico-8 title!
+
 Interested in learning more about us and our projects? Visit [terrabyte.eco](https://terrabyte.eco) or follow us on [Instagram](https://instagram.com/terrabyte_tech) and [Mastodon](https://mastodon.eco/@terrabyte) to keep up with what we're doing!
